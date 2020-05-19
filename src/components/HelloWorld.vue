@@ -1,11 +1,6 @@
 <template>
   <div>
     <button @click="btnFun"> Toast </button>
-    <button @click="btnFun"> Toast </button>
-
-    <button @click="btnFun"> Toast </button>
-
-    <button @click="btnFun"> Toast </button>
 
   </div>
 </template>
